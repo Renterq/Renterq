@@ -30,7 +30,7 @@ Brute-force (kaba kuvvet) saldırılarını tespit etmek ve otomatik olarak enge
 ### 🛠️ PORT MASTER (Shell)
 Linux sistemlerde ağ yönetimini kolaylaştıran, port izleme ve güvenlik duvarı yapılandırmalarını otomatize eden çok dilli komut satırı aracım.
 
-### 🎵 Rentunes (JavaScript)
+### 🎵 Rentunes (Python)
 Discord üzerinde çalışan, Node.js tabanlı gelişmiş bir müzik ve yönetim botu. Web tarafında `bot.rvatsmp.net` üzerinden kontrol paneli desteği sunuyor.
 
 ### 🧱 Minecraft Skript Geliştirme

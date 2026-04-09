@@ -34,7 +34,7 @@ Linux sistemlerde ağ yönetimini kolaylaştıran, port izleme ve güvenlik duva
 Discord üzerinde çalışan, Node.js tabanlı gelişmiş bir müzik ve yönetim botu. Web tarafında `bot.rvatsmp.net` üzerinden kontrol paneli desteği sunuyor.
 
 ### ✉ Stray invite bot (JavaScript)
-Minecraft üzerinde Stray.gg sunucusuna otomatik giriş yapıp /ca invite atıyor ve bu discord üzerinden çalışıyor !davet komutu ile isimini giriyor ve sen Minecraft'a girmeden senin yerine giriyor ve yazılan isime göre ca invite atıyor.
+Bu sistem Discord üzerinden çalışıyor. Discord'da !davet komutu ile bir isim girdiğinizde; bot, siz Minecraft'a girmeden sizin yerinize Stray.gg sunucusuna otomatik olarak giriş yapıyor ve yazılan isme /ca invite isteği atıyor.
 
 ### 🧱 Minecraft Skript Geliştirme
 Minecraft sunucu mekaniklerini tamamen değiştiren ve yeni özellikler ekleyen karmaşık "Skript" (sk) yazılımları geliştiriyorum. Oyun içi ekonomiden güvenlik sistemlerine kadar her şeyi kodla kontrol etmeyi seviyorum.

@@ -33,6 +33,9 @@ Linux sistemlerde ağ yönetimini kolaylaştıran, port izleme ve güvenlik duva
 ### 🎵 Rentunes (Python)
 Discord üzerinde çalışan, Node.js tabanlı gelişmiş bir müzik ve yönetim botu. Web tarafında `bot.rvatsmp.net` üzerinden kontrol paneli desteği sunuyor.
 
+### ✉ Stray invite bot (JavaScript)
+Minecraft üzerinde Stray.gg sunucusuna otomatik giriş yapıp /ca invite atıyor ve bu discord üzerinden çalışıyor !davet komutu ile isimini giriyor ve sen Minecraft'a girmeden senin yerine giriyor ve yazılan isime göre ca invite atıyor.
+
 ### 🧱 Minecraft Skript Geliştirme
 Minecraft sunucu mekaniklerini tamamen değiştiren ve yeni özellikler ekleyen karmaşık "Skript" (sk) yazılımları geliştiriyorum. Oyun içi ekonomiden güvenlik sistemlerine kadar her şeyi kodla kontrol etmeyi seviyorum.
 

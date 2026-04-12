@@ -24,7 +24,6 @@ Sistemlerin nasıl çalıştığını (ve bazen nasıl çöktüğünü) anlamaya
 
 ## 🚀 Öne Çıkan Projelerim
 
-
 ### 🛡️ Anti-Brute-IDS (Python/Shell)
 Brute-force (kaba kuvvet) saldırılarını tespit etmek ve otomatik olarak engellemek amacıyla geliştirdiğim bir Saldırı Tespit Sistemi (IDS). Ağ güvenliğini sağlamak için log analizleri ve IP bloklama mekanizmaları üzerine çalışıyor.
 

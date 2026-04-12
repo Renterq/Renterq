@@ -4,6 +4,7 @@
 
 Sistemlerin nasıl çalıştığını (ve bazen nasıl çöktüğünü) anlamaya bayılan bir teknoloji tutkunuyum. Şu an siber güvenlik alanında kendimi geliştiriyor, Arch Linux (KDE Plasma) üzerinde kendi araçlarımı kodluyor ve Minecraft dünyasında "Skript" ile harikalar yaratıyorum.
 
+
 ## 🎯 Hedeflerim
 * **Kariyer:** Siber güvenlik uzmanı olarak sızma testleri ve saldırı tespit sistemleri (IDS) üzerine uzmanlaşmak.
 * **Gelişim:** Python ve Shell otomasyonlarımı siber savunma araçlarına dönüştürmek.

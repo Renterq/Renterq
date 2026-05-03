@@ -1,4 +1,4 @@
-# Selam, Ben Renterq! 👋
+# Selam, Ben Eren! 👋
 
 **Siber Güvenlik Öğrencisi | Geliştirici | Linux & Skript Meraklısı**
 
